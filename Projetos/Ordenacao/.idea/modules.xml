@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$//Recursivos.iml" filepath="$PROJECT_DIR$//Recursivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ordenacao.iml" filepath="$PROJECT_DIR$/Ordenacao.iml" />
     </modules>
   </component>
 </project>
